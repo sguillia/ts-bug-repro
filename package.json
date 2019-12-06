@@ -1,0 +1,14 @@
+{
+  "name": "ts-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "compile": "tsc -p .",
+    "watch": "tsc -w -p ."
+  },
+  "author": "sguillia",
+  "dependencies": {
+    "@types/node": "^12.12.14"
+  }
+}
